@@ -12,10 +12,10 @@
 }
 
 .cabecalho__logo {
-    width: 16em;
+    width: 15em;
     padding: 1.5em 0;
     border-radius: 100%;
-    position: absolute;
+    position: relative;
     
 }
 
@@ -35,7 +35,7 @@
     display: inline-block;
 }
 
-@media (min-width: 640px) {
+@media (min-width: 500px) {
     .cabecalho {
         display: flex;
         justify-content: space-between;
