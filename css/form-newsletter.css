@@ -2,8 +2,8 @@
     display: flex;
     width: 100%;
     border-radius: 7px;
-    background-color: #e93d50;
-    border: 2px solid #e93d50;
+    background-color: green;
+    border: 2px solid green;
     box-sizing: border-box;
     overflow: hidden;
 }
@@ -27,6 +27,6 @@
     text-transform: uppercase;
     font-weight: 600;
     color: #fff;
-    background-color: #e93d50;
+    background-color: green;
     flex-grow: 1;
 }

@@ -59,7 +59,7 @@
     .cabecalho__menu-item--matricular {
         margin-left: 1.42em;
         border-radius: 6px;
-        background-color: #e93d50;
+        background-color: green;
     }
 
     .cabecalho__menu-item--matricular a {
