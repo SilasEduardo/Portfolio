@@ -99,5 +99,9 @@
     .rodape__secao:not(:first-child) {
         margin-left: 2em;
         margin-top: 0;
+    
+    }
+    .campo{
+        border-color: green;
     }
 }
