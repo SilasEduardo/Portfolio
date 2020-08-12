@@ -17,7 +17,7 @@ body {
 }
 
 .titulo {
-    background-color: #E1EdF2;
+    background-color: #9aff9a;
     padding: 10px;
 }
 
@@ -35,11 +35,11 @@ figure {
 }
 
 figure img {
-    width: 100%;
+    width: 70%;
 }
 
 .foto-550px {
-    width: 550px;
+    width:450px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -120,4 +120,17 @@ figure img {
         display: block;
         margin-left: 1em;
     }
+    
+}
+.nome-principal{
+    color: green;
+    
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border-left: 2em;
+
 }
